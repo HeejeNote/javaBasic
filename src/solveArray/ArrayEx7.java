@@ -1,4 +1,4 @@
-package array;
+package solveArray;
 
 import java.util.Scanner;
 

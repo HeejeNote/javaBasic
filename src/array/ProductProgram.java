@@ -16,7 +16,7 @@ public class ProductProgram {
          * 상품 이름을 입력하세요:SPRING
          */
 
-        int maxProducts = 3;
+        int maxProducts = 10;
         String[] productName = new String[maxProducts];
         int[] productPrices = new int[maxProducts];
         int productCount = 0;

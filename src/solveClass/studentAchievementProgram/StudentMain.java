@@ -1,4 +1,4 @@
-package solveClass;
+package solveClass.studentAchievementProgram;
 
 public class StudentMain {
 
@@ -13,8 +13,8 @@ public class StudentMain {
 
         Student student1 = new Student("학생1", 15,90);
         Student student2 = new Student("학생2", 16,80);
-        System.out.println(student1.toString());
-        System.out.println(student2.toString());
+        System.out.println(student1.printStudent());
+        System.out.println(student2.printStudent());
 
     }
 }

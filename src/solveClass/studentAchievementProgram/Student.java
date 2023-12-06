@@ -1,4 +1,4 @@
-package solveClass;
+package solveClass.studentAchievementProgram;
 
 public class Student {
 
@@ -14,8 +14,7 @@ public class Student {
         this.score = score;
     }
 
-    @Override
-    public String toString() {
+    public String printStudent() {
         String result = "이름: "  + name + " 나이: " + age + " 성적: " + score;
         return result;
     }

@@ -1,4 +1,4 @@
-package solveMethod;
+package solvemethod;
 
 public class MethodEx1 {
     /**

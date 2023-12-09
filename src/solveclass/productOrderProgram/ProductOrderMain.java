@@ -1,6 +1,4 @@
-package solveClass.productOrderProgram;
-
-import solveClass.studentAchievementProgram.Student;
+package solveclass.productOrderProgram;
 
 public class ProductOrderMain {
 

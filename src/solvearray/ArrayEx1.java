@@ -1,4 +1,4 @@
-package solveArray;
+package solvearray;
 
 public class ArrayEx1 {
 

@@ -1,4 +1,4 @@
-package solveClass.productOrderProgram;
+package solveclass.productOrderProgram;
 
 import java.util.Scanner;
 

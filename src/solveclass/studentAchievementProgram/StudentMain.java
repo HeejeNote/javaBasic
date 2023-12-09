@@ -1,4 +1,4 @@
-package solveClass.studentAchievementProgram;
+package solveclass.studentAchievementProgram;
 
 public class StudentMain {
 

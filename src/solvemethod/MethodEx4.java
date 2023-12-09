@@ -1,4 +1,4 @@
-package solveMethod;
+package solvemethod;
 
 import java.util.Scanner;
 

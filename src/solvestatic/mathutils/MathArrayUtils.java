@@ -7,7 +7,6 @@ public class MathArrayUtils {
      * min(int[] array) : 배열에서 최소값을 찾습니다.
      * max(int[] array) : 배열에서 최대값을 찾습니다
      */
-
      public static int sum(int[] array){
          int sum = 0;
          for (int i : array) {

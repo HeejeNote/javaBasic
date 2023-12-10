@@ -1,7 +1,6 @@
 package solvestatic.numberofcars;
 
 public class CarMain {
-
     public static void main(String[] args) {
         /**
          *   ::: 생성한 차량 수를 출력 :::

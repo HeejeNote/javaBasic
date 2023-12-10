@@ -8,5 +8,6 @@ public class MathArrayUtilsMain {
         System.out.println("average = " + MathArrayUtils.average(values));
         System.out.println("min = " + MathArrayUtils.min(values));
         System.out.println("max = " + MathArrayUtils.max(values));
+
     }
 }

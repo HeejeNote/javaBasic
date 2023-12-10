@@ -1,7 +1,6 @@
 package solvestatic.numberofcars;
 
 public class Car {
-
     private String name;
     private static int count;
 

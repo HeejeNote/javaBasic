@@ -1,4 +1,4 @@
-package access.shippingcart;
+package solveaccess.shippingcart;
 
 public class ShoppingCartMain {
 

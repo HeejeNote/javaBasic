@@ -1,4 +1,4 @@
-package access.speaker;
+package solveaccess.speaker;
 
 public class SpeakerMain {
 

@@ -1,4 +1,4 @@
-package construct;
+package solveconstruct;
 
 public class BookMain {
 

@@ -1,4 +1,4 @@
-package construct;
+package solveconstruct;
 
 public class Book {
     String title; //제목

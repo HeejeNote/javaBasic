@@ -1,4 +1,4 @@
-package access.shippingcart;
+package solveaccess.shippingcart;
 
 public class Item {
 
@@ -19,4 +19,5 @@ public class Item {
     public int getTotalPrice(){
         return price * quantity;
     }
+
 }

@@ -1,4 +1,4 @@
-package access.counter;
+package solveaccess.counter;
 
 public class MaxCounter {
     /**
